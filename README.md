@@ -7,4 +7,5 @@ Steps to run the application
 2. install necessary libraries mentioned in package.json file
 3. cd your_react_app npm start
 4. create firebase configuration using firebase account on google with realtime database
-5. now application runs properly 
+5. add that configuration in your react app
+6. now application runs properly 
