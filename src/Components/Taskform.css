@@ -1,0 +1,52 @@
+.Create
+{
+    border:1px solid black;
+    width: 600px;
+    margin-left: 440px;
+    padding: 30px;
+    background-color:honeydew;
+    margin-top: 60px;
+    height: 570px;
+}
+
+.Create .desc 
+{
+    margin-left: 100px;
+    width: 400px;
+    height: 300px;
+    margin-top: -30px;
+    margin-bottom: 20px;
+}
+
+.Create .tit 
+{
+    margin-left: 10px;
+    padding:7px;
+    width: 250px;
+}
+
+.Create .date 
+{
+    margin-bottom: 20px;
+}
+
+.Create button 
+{
+    margin-left: 250px;
+    background-color:crimson;
+    font-weight: bold;
+    color: #fff;
+    padding: 10px 17px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-size: 14px; 
+    transition: background-color 0.3s;
+
+}
+
+.Taskform .welcome 
+{
+    color: yellow;
+}
+

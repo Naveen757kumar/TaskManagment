@@ -1,0 +1,83 @@
+
+
+
+
+.Reg h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: black;
+    border: 1px solid black;
+    background-color:aliceblue;
+    padding: 10px;
+}
+
+
+.R  {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 100px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+  }
+  
+.R  h2 {
+    text-align: center;
+    color: brown;
+  }
+  
+.R  label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+.R  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  
+.R  button {
+    width: 30%;
+    padding: 10px;
+    background-color:blueviolet;
+    color: #fff;
+    border: none;
+    margin: 0 auto;
+    border-radius: 4px;
+    cursor: pointer;
+    justify-content: center;
+  }
+  
+.R button:hover {
+    background-color: darkviolet;
+  }
+  
+.R  p {
+    text-align: center;
+    margin-top: 16px;
+  }
+  
+.R  p a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+.R  p a:hover {
+    text-decoration: underline;
+  }
+  
+.R  .error-message {
+    color: red;
+    text-align: center;
+    margin-top: 16px;
+  }
+  

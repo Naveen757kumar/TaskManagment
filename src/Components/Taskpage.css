@@ -1,0 +1,174 @@
+
+.Taskpage 
+{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.Taskpage .filter 
+{
+    padding: 5px;
+    width:110px;
+    margin-left:10px;
+}
+
+
+.Taskpage h2
+{
+    margin:0 auto;
+    text-align: center;
+    margin-top: -10px;
+    
+}
+
+.Taskpage h3 
+{
+    margin-left:0 auto;
+    margin-left:450px;
+    color:yellow;
+}
+
+.Taskpage h1 
+{
+  text-align: center;
+  margin-top: 50px;
+  color: black;
+  border: 1px solid black;
+  background-color:aliceblue;
+  padding: 10px;
+}
+
+.Taskpage .log 
+{
+    margin-left: 30px;
+    margin-top: -40px;
+    background-color:firebrick;
+    color: #fff;
+    padding: 10px 17px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-size: 14px; 
+    width:50px;
+    font-size: bold;
+    display: inline-block;
+    border: none;
+    text-decoration: none;
+    font-weight: bold;
+   
+}
+
+.Taskpage .but 
+{
+    margin:0 auto;
+    margin-left: 570px;
+    width: 120px;
+    margin-top:-10px;
+    display: flex;
+    margin-bottom: 20px;
+    background-color:black;
+    color:white;
+    font-weight: bold;
+    padding: 10px 17px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-size: 14px; 
+    transition: background-color 0.3s;
+    
+
+    
+}
+
+.Taskpage .ListPage 
+{
+    margin:0 auto;
+    margin-left: 430px;
+    margin-top: 10px;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 700px;
+    background-color:paleturquoise;
+    height:100%;
+}
+
+.Taskpage .ListPage li
+{
+    
+    margin:0 auto;
+    margin-left:50px;
+    margin-bottom: 30px;
+    border: 1px solid black;
+    border-bottom: 10px;
+    max-width: 610px;
+    
+}
+
+.Taskpage .ListPage .button
+{
+    margin-top:-20px;
+    margin-left: 300px;
+    margin-top: -20px;
+}
+
+.Taskpage .view
+{
+    background-color:green;
+    color: #fff;
+    padding: 10px 17px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-size: 14px; 
+    transition: background-color 0.3s;
+
+}
+
+.Taskpage .update 
+{
+    background-color:blue;
+    color: #fff;
+    padding: 10px 15px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-size: 14px; 
+    transition: background-color 0.3s;
+
+    
+}
+
+.Taskpage .delete 
+{
+    background-color: red;
+    color: #fff;
+    padding: 10px 17px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-size: 14px; 
+    transition: background-color 0.3s;
+
+}
+
+.Taskpage .check 
+{
+    
+    width:70px;
+    height: 20px;
+    cursor: pointer;
+    margin-left: 550px;
+    display: flex;
+    margin-top: -30px;
+    
+}
+
+
+
+
+
+
+
